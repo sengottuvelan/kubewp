@@ -42,6 +42,7 @@
 	</div><!-- .site-content-contain -->
 </div><!-- #page -->
 <?php wp_footer(); ?>
-
+<p>This is a for Kube CTS.</p>
 </body>
+
 </html>
