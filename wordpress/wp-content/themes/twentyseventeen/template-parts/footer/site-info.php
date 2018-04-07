@@ -10,5 +10,5 @@
 
 ?>
 <div class="site-info">
-	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyseventeen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyseventeen' ), 'Kubernetes rocks' ); ?></a>
+	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyseventeen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyseventeen' ), 'Kubernetes rock n roll ' ); ?></a>
 </div><!-- .site-info -->
